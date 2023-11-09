@@ -1,0 +1,231 @@
+
+.ak-logo {
+    height: 80px;
+}
+
+.footer-name {
+    font-size: 22px;
+    font-family: italic;
+}
+
+.footer-section {
+    background-color: black;
+    border-radius: 5px;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.card-contact-info {
+    background-color: white;
+    height: 140px;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.card-no {
+    font-size: 14px;
+}
+
+.card-text {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.card-img {
+    height: 70px;
+    width: 55%;
+}
+
+.photo {
+    height: 180px;
+    width: 150px;
+}
+
+.photo-container {
+    border-width: 2px;
+    border-color: red;
+    height: 200px;
+    width: 170px;
+    border-style: solid;
+}
+
+.resume {
+    color: black;
+    font-weight: 400;
+    font-family: "Roboto";
+    font-size: 13px;
+    background-color: transparent;
+}
+
+.resume-button {
+    border-color: red;
+    height: 40px;
+    width: 150px;
+}
+
+.self-intro {
+    font-family: "italic";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.course {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.card-project-image {
+    height: 40vh;
+    width: 100%;
+}
+
+.project-description {
+    color: white;
+    font-family: italic;
+    font-size: 14px;
+}
+
+.project-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.card-project {
+    border-radius: 1px;
+    border-width: 2px;
+    border-color: 5px;
+    background-color: #002c58;
+    height: 40vh;
+    width: 100%;
+}
+
+.project-button {
+    border-color: red;
+    border-width: 2px;
+    background-color: transparent;
+    height: 40px;
+    width: 100px;
+}
+
+.project {
+    color: white;
+    font-weight: 500;
+    font-family: italic;
+}
+
+.title-col-2 {
+    color: black;
+}
+
+.title-col-1 {
+    color: red;
+}
+
+.projects {
+    border-width: 2px;
+}
+
+.card-description {
+    color: white;
+    font-family: italic;
+}
+
+.card-section {
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.L0fHj-mM9am5u2UlL18McQHaEK&pid=Api&P=0&h=180");
+    height: 420px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.icon {
+    height: 120px;
+    width: 50%;
+    border-radius: 8px;
+}
+
+.description {
+    font-family: italic;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.name-1 {
+    color: white;
+}
+
+.name-2 {
+    color: red;
+}
+
+.myphoto {
+    height: 300px;
+    background-color: transparent;
+}
+
+#button {
+    color: black;
+    background-color: white;
+}
+
+.title-col-1 {
+    color: red;
+}
+
+.title-col-2 {
+    color: black;
+}
+
+.title-col-3 {
+    color: white;
+}
+
+.bg-container {
+    background-image: url("https://wallpaperaccess.com/full/5651984.jpg");
+    height: 90vh;
+    background-size: cover;
+}
+
+#navItem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.port-image {
+    height: 70px;
+    width: 80px;
+}
